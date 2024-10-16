@@ -106,6 +106,12 @@ rosrun arm_teleop teleop.py
 
 </div>
 
+## Running inverse kinematics teleop
+
+```bash
+rosrun arm_teleop teleop_keyboard_new
+```
+
 
 ## Troubleshooting
 
