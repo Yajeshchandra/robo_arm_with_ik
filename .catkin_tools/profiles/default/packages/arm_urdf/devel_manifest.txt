@@ -1,0 +1,5 @@
+arm_urdf
+/home/ub20/robo_arm_with_ik/devel/.private/arm_urdf/cmake.lock /home/ub20/robo_arm_with_ik/devel/./cmake.lock
+/home/ub20/robo_arm_with_ik/devel/.private/arm_urdf/lib/pkgconfig/arm_urdf.pc /home/ub20/robo_arm_with_ik/devel/lib/pkgconfig/arm_urdf.pc
+/home/ub20/robo_arm_with_ik/devel/.private/arm_urdf/share/arm_urdf/cmake/arm_urdfConfig-version.cmake /home/ub20/robo_arm_with_ik/devel/share/arm_urdf/cmake/arm_urdfConfig-version.cmake
+/home/ub20/robo_arm_with_ik/devel/.private/arm_urdf/share/arm_urdf/cmake/arm_urdfConfig.cmake /home/ub20/robo_arm_with_ik/devel/share/arm_urdf/cmake/arm_urdfConfig.cmake

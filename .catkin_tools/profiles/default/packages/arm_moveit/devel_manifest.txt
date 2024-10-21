@@ -1,0 +1,5 @@
+arm_moveit
+/home/ub20/robo_arm_with_ik/devel/.private/arm_moveit/cmake.lock /home/ub20/robo_arm_with_ik/devel/./cmake.lock
+/home/ub20/robo_arm_with_ik/devel/.private/arm_moveit/lib/pkgconfig/arm_moveit.pc /home/ub20/robo_arm_with_ik/devel/lib/pkgconfig/arm_moveit.pc
+/home/ub20/robo_arm_with_ik/devel/.private/arm_moveit/share/arm_moveit/cmake/arm_moveitConfig-version.cmake /home/ub20/robo_arm_with_ik/devel/share/arm_moveit/cmake/arm_moveitConfig-version.cmake
+/home/ub20/robo_arm_with_ik/devel/.private/arm_moveit/share/arm_moveit/cmake/arm_moveitConfig.cmake /home/ub20/robo_arm_with_ik/devel/share/arm_moveit/cmake/arm_moveitConfig.cmake

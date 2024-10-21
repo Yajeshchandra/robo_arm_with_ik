@@ -1,9 +1,0 @@
-moveit:
-  planning_scene:
-    robot_description: robotic_arm
-  kinematics:
-    robotic_arm:
-      type: kdl_kinematics_plugin/KDLKinematicsPlugin
-
-
-      

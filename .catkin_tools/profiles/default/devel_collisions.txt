@@ -1,0 +1,1 @@
+/home/ub20/robo_arm_with_ik/devel/./cmake.lock 6
